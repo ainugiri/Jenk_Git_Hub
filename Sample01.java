@@ -7,6 +7,6 @@ System.out.println("Hello"+a);
 return a*a;
 }
 public static void main(String args[]){
-System.out.println("int Hello World");
+System.out.println("Jenkins Hello World");
 }
 }
