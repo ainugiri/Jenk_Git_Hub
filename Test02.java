@@ -1,5 +1,5 @@
 class Test02{
 void display(){
-System.out.println("Welcome");
+System.out.println("Welcome to Integration");
 }
 }
